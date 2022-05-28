@@ -18,9 +18,15 @@ FEATURES:
 TEAM DETAILS:
 
 ->Phoenix ID:- PG-2223-ETSD-630  DWARAMPUDI SOWMYA
+
 ->Phoenix ID:- PG-2223-ETSD-776  T Rahul Vardhan
-->Phoenix ID:- PG-2223-ETSD-529  Datla  Narendra varma   
-->Phoenix ID:- PG-2223-ETSD-526  Teja Naidu Sadhanala   
-->Phoenix ID:- PG-2223-ETSD-532  Nallimelli Satya Krishna Phaneendra Reddy   
+
+->Phoenix ID:- PG-2223-ETSD-529  Datla  Narendra varma
+
+->Phoenix ID:- PG-2223-ETSD-526  Teja Naidu Sadhanala 
+
+->Phoenix ID:- PG-2223-ETSD-532  Nallimelli Satya Krishna Phaneendra Reddy  
+
 ->Phoenix ID:- PG-2223-ETSD-863  G D N V S VARA PRASAD  
+
 ->Phoenix ID: PG-2223-ETSD-729   ELURI SAIBABU
