@@ -6,7 +6,7 @@ TEAM NAME: CREATIVE GANG
 
 TEAM SIZE: 7 
 
-PROJECT NAME:FOODONATION-APP 
+PROJECT NAME: FOODONATION-APP 
 
 DESCRIPTION: -It is a Web application which will be a medium between needy people and people who want to help and donate food to them.Hotels and restaurants,any individual users can register themselves in this app to donate the leftover food items. -Nearby NGOs and any volunteers get the notification about the leftover food. 
 
